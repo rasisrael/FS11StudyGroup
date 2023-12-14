@@ -1,0 +1,75 @@
+Java I Final Exam V2 2023
+
+Choose two questions to develop.
+
+Question 1
+-----------
+Purpose: Write a program that uses the method sqrt of the class Math and outputs the square roots of the first 25 positive integers. 
+(Your program must output each number and its square root.)
+
+Save the file as SquareRoot.java
+
+Sample Run:
+The square roots of the first 25 positive integers:
+Number Sqrt(Number)
+------ ------------
+1 	1
+2 	1.41
+3 	1.73
+4 	2
+5 	2.24
+6 	2.45
+... 	...
+
+Question 2
+----------
+Purpose: Convert temperatures. Prompt the user to enter the temperature in Celsius or Fahrenheit.
+ 
+Implement the following double methods:
+a) Method celsius returns the Celsius equivalent of a Fahrenheit temperature, using the calculation
+celsius = 5.0 / 9.0 * (fahrenheit - 32);
+b) Method fahrenheit returns the Fahrenheit equivalent of a Celsius temperature, using the calculation
+fahrenheit = 9.0 / 5.0 * celsius + 32;
+
+Save the file as TemperatureConverter.java
+
+Question 3
+----------
+Purpose:
+Find smallest element in an array
+
+Example:
+Input:
+Enter number of elements: 4
+Input elements: 45, 25, 69, 40
+Output:
+Smallest element is: 25
+
+Save the file as SmallestElement.java
+
+Question 4 (10 points)
+======================
+Purpose: Using nested loop control structure to display a star pattern.
+Suppose you want to create the following pattern:
+
+*
+**
+***
+****
+*****
+
+Clearly, you want to print five lines of stars. In the first line you want to print one star, in the second line two stars, and so on.
+
+Save the file as Stars.java
+
+Question 5 (10 points)
+======================
+Purpose: to create a java class and test it.
+
+create a class and named it Province. 
+The Province class has a name, population, capital, and area. 
+
+Create methods to manipulate the Province class. 
+Create a tester class to test the class Province 
+
+Save files as Province.java and ProvinceTester.java
